@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Charusharma19/Leetcode-ques/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Charusharma19/Leetcode-ques/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Charusharma19/Leetcode-ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Charusharma19/Leetcode-ques/tree/master/0217-contains-duplicate) |
 | [0867-transpose-matrix](https://github.com/Charusharma19/Leetcode-ques/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Charusharma19/Leetcode-ques/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Charusharma19/Leetcode-ques/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -66,4 +68,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Charusharma19/Leetcode-ques/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Charusharma19/Leetcode-ques/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
