@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Charusharma19/Leetcode-ques/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Charusharma19/Leetcode-ques/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Charusharma19/Leetcode-ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0867-transpose-matrix](https://github.com/Charusharma19/Leetcode-ques/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Charusharma19/Leetcode-ques/tree/master/0104-maximum-depth-of-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Charusharma19/Leetcode-ques/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Charusharma19/Leetcode-ques/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
