@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Charusharma19/Leetcode-ques/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Charusharma19/Leetcode-ques/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Charusharma19/Leetcode-ques/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/Charusharma19/Leetcode-ques/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,4 +77,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Charusharma19/Leetcode-ques/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Charusharma19/Leetcode-ques/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
