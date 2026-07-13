@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Charusharma19/Leetcode-ques/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Charusharma19/Leetcode-ques/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/Charusharma19/Leetcode-ques/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Charusharma19/Leetcode-ques/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Charusharma19/Leetcode-ques/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Charusharma19/Leetcode-ques/tree/master/0875-koko-eating-bananas) |
 ## String Matching
