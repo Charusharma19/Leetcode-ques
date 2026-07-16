@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Charusharma19/Leetcode-ques/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Charusharma19/Leetcode-ques/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Charusharma19/Leetcode-ques/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Charusharma19/Leetcode-ques/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Charusharma19/Leetcode-ques/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Charusharma19/Leetcode-ques/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Charusharma19/Leetcode-ques/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Charusharma19/Leetcode-ques/tree/master/0242-valid-anagram) |
 | [0572-subtree-of-another-tree](https://github.com/Charusharma19/Leetcode-ques/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
