@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Charusharma19/Leetcode-ques/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Charusharma19/Leetcode-ques/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Charusharma19/Leetcode-ques/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/Charusharma19/Leetcode-ques/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Charusharma19/Leetcode-ques/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Charusharma19/Leetcode-ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Charusharma19/Leetcode-ques/tree/master/0217-contains-duplicate) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Charusharma19/Leetcode-ques/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Charusharma19/Leetcode-ques/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Charusharma19/Leetcode-ques/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Charusharma19/Leetcode-ques/tree/master/0242-valid-anagram) |
 ## Linked List
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Charusharma19/Leetcode-ques/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Charusharma19/Leetcode-ques/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Charusharma19/Leetcode-ques/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Charusharma19/Leetcode-ques/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Charusharma19/Leetcode-ques/tree/master/0242-valid-anagram) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Charusharma19/Leetcode-ques/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Charusharma19/Leetcode-ques/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Charusharma19/Leetcode-ques/tree/master/0344-reverse-string) |
 | [0572-subtree-of-another-tree](https://github.com/Charusharma19/Leetcode-ques/tree/master/0572-subtree-of-another-tree) |
